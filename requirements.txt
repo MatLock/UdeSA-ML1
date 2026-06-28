@@ -1,0 +1,35 @@
+# Core scientific / data
+numpy
+pandas
+scipy
+sympy
+
+# Plotting
+matplotlib
+seaborn
+plotly
+
+# Machine learning
+scikit-learn
+statsmodels
+xgboost
+umap-learn
+pygam
+lifelines
+formulaic
+ISLP
+
+# Deep learning
+torch
+lightning
+
+# Utilities
+tqdm
+progressbar2
+fsspec
+jinja2
+openpyxl   # reading the .xlsx file
+
+# Jupyter
+jupyter
+ipykernel
